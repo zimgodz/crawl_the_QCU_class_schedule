@@ -1,0 +1,1 @@
+使用selenium库等待用户输入完密码账号，在使用request库传递cookies爬取课表信息，存储在json文件中
